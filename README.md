@@ -1,5 +1,9 @@
 # fe-reborn-django-admin
 
+This is the FE for the admin app I built the backend for in Django
+
+enjoy
+
 ## Project setup
 ```
 npm install
